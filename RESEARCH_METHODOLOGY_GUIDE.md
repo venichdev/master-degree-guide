@@ -120,6 +120,81 @@ Clearly state:
 
 ## Phase 3: Methodology Design
 
+### 3.0 Research Process Overview (Kothari Framework)
+
+The research process follows an iterative cycle with feedback mechanisms that allow continuous refinement:
+
+```text
+┌─────────────────────────────────────────────────────────────────────────┐
+│                      RESEARCH PROCESS FLOW CHART                        │
+│                                                                         │
+│  ┌──────────────┐      ┌────────────────────┐      ┌────────────────┐ │
+│  │   I. Define  │      │  II. Review the    │      │ III. Formulate │ │
+│  │   Research   │─────>│     Literature     │─────>│   Hypotheses   │ │
+│  │   Problem    │      │                    │      │                │ │
+│  └──────┬───────┘      │ • Review concepts  │      └────────┬───────┘ │
+│         │              │   and theories     │               │         │
+│         │              │ • Review previous  │               │         │
+│         │              │   research findings│               │         │
+│         │              └────────────────────┘               │         │
+│         │                                                   │         │
+│         │  FF ◄────────────────────────────────────────────┘         │
+│         │  (Feed Forward: Provides criteria for evaluation)          │
+│         ▼                                                             │
+│  ┌──────────────┐      ┌────────────────────┐      ┌────────────────┐ │
+│  │IV. Design    │      │   V. Collect Data  │      │ VI. Analyze    │ │
+│  │   Research   │─────>│    (Execution)     │─────>│     Data       │ │
+│  │  (Including  │      │                    │◄─┐   │ (Test          │ │
+│  │Sample Design)│      │                    │  │   │  Hypotheses    │ │
+│  └──────────────┘      └────────────────────┘  │   │  if any)       │ │
+│                                 │               │   └────────┬───────┘ │
+│                                 │               F            │         │
+│                                 │          (Feedback)        │         │
+│                                 ▼                            ▼         │
+│                        ┌────────────────────┐      ┌────────────────┐ │
+│                        │ VII. Interpret     │      │                │ │
+│                        │      and           │◄─────│                │ │
+│                        │    Report          │      │                │ │
+│                        └────────────────────┘      └────────────────┘ │
+│                                                                         │
+│  Legend:                                                                │
+│  F  = Feedback (helps in controlling the sub-system to which it is     │
+│       transmitted)                                                      │
+│  FF = Feed Forward (serves the vital function of providing criteria    │
+│       for evaluation)                                                   │
+│                                                                         │
+│  Reference: Kothari, C.R., 2004. Research methodology: Methods and     │
+│            techniques. New Age International.                           │
+└─────────────────────────────────────────────────────────────────────────┘
+```
+
+**Key Feedback Mechanisms:**
+
+**Feed Forward (FF):**
+
+- From Phase II (Literature Review) to Phase I (Problem Definition)
+- Provides evaluation criteria and refines research scope
+- Ensures problem is well-grounded in existing knowledge
+
+**Feedback Loop 1 (F):**
+
+- From Phase VI (Data Analysis) to Phase V (Data Collection)
+- Allows for additional data collection if initial results are insufficient
+- Enables methodology refinement based on preliminary findings
+
+**Feedback Loop 2 (Implicit):**
+
+- From Phase VII (Interpretation) to earlier phases
+- May trigger additional literature review
+- Can lead to hypothesis refinement or additional experiments
+
+**Research Process Principles:**
+
+1. **Iterative Nature:** Research rarely proceeds linearly; expect to cycle back
+2. **Continuous Refinement:** Each phase informs and improves others
+3. **Flexibility:** Be prepared to adjust methodology based on findings
+4. **Documentation:** Record all iterations and decisions made during feedback loops
+
 ### 3.1 Research Design & Approach
 
 **Choose appropriate approach:**
