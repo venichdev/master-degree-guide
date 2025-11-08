@@ -20,6 +20,7 @@ The framework is adaptable to other STEM fields with minor modifications.
 
 ### Comprehensive Coverage
 - **6 Major Phases**: From problem identification to defense preparation
+- **Kothari Research Process Framework**: Visual flowchart with 7-phase iterative cycle and feedback mechanisms
 - **Iterative Process Model**: Acknowledges the non-linear nature of real research
 - **Quality Checkpoints**: Self-assessment questions at each stage
 - **Common Pitfalls**: Learn what mistakes to avoid before making them
@@ -62,6 +63,7 @@ Phase 2: In-depth Literature Review
 └── Identification of your contribution
 
 Phase 3: Methodology Design
+├── Research Process Overview (Kothari Framework)
 ├── Research approach selection
 ├── System architecture
 ├── Experimental design (DOE)
@@ -95,6 +97,7 @@ Phase 6: Conclusion & Documentation
 
 ## What Makes This Different?
 
+- **Visual framework**: Includes Kothari's research process flowchart showing feedback loops and iterative cycles
 - **Not just theory**: Includes practical examples and specific tools
 - **Honest about challenges**: Addresses the messy reality of research
 - **Modern standards**: Incorporates current best practices in reproducibility
@@ -109,6 +112,7 @@ Phase 6: Conclusion & Documentation
 - [Timeline Management](RESEARCH_METHODOLOGY_GUIDE.md#timeline-management)
 
 ### For Active Researchers
+- [Research Process Overview (Kothari Framework)](RESEARCH_METHODOLOGY_GUIDE.md#30-research-process-overview-kothari-framework)
 - [Experimental Design](RESEARCH_METHODOLOGY_GUIDE.md#34-experimental-design)
 - [Data Collection & Management](RESEARCH_METHODOLOGY_GUIDE.md#42-data-collection)
 - [Statistical Analysis Guide](RESEARCH_METHODOLOGY_GUIDE.md#51-data-analysis)
@@ -181,6 +185,7 @@ This framework is shared freely for educational purposes. Feel free to use, adap
 ## Acknowledgments
 
 This methodology guide synthesizes best practices from:
+- Kothari's research methodology framework (Kothari, C.R., 2004. Research methodology: Methods and techniques. New Age International)
 - Engineering research methodology
 - Statistical rigor standards
 - Open science initiatives
